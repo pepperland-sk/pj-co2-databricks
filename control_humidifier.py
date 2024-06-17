@@ -4,6 +4,11 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC SwitchBot加湿器の操作
+
+# COMMAND ----------
+
 catalog = 'skato'
 schema = 'prod_co2'
 spark.sql(f"USE CATALOG {catalog}")

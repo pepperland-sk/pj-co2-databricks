@@ -5,7 +5,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC Azure IoT Hub経由でADLSに格納されたセンサーデータの読み込み・加工を行う
+# MAGIC Azure IoT Hub経由でADLSに格納されたセンサーデータの取り込み・加工を行う
 
 # COMMAND ----------
 
